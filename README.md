@@ -71,5 +71,5 @@ A special thanks to the [Scott Game Sounds YouTube channel](https://www.youtube.
 
 ## Youtube
 
-[Watch this demo video](https://youtu.be/4dWpy81SFBQ)
+[Watch this demo video](https://youtu.be/3ppX4MGABNY)
 
